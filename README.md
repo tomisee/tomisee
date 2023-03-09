@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tomisee
+- 👋 Hi, I’m tomisee
 - 👀 I’m interested in computing, security, and Formula 1
 - 🌱 I’m currently learning security through a Computer Systems Security MSc course in university
 - 📫 How to reach me through my github account
